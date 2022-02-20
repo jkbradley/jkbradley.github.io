@@ -1,6 +1,6 @@
 ## Joseph Bradley
 
-![Headshot](/assets/images/headshot.jpg)
+![Headshot](/assets/images/headshot.jpg | width=100)
 
 I have been a Solutions Architect and Software Engineer at Databricks and an academic researcher,
 all in various parts of the Machine Learning and advanced analytics space.
