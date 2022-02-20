@@ -34,16 +34,7 @@ Databricks blog posts which I occasionally write
 
 ### Research from years past
 
-<table>
-<thead>
-<tr>
-<th>test</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td>this</td>
-</tr>
-</tbody>
-</table>
+| Title | Authors | Venue    | Year | Documents                                |
+|-------|---------|----------|------|------------------------------------------|
+| Yggdrasil: An Optimized System for Training Deep Decision Trees at Scale. | F. Abuzaid, J. Bradley, F. Liang, A. Feng, L. Yang, M. Zaharia, A. Talwalkar. | NeurIPS  | 2016 | [PDF](/assets/papers/2016_yggdrasil.pdf) |
+| Title | Authors | Venue    | Year | Documents                                |
