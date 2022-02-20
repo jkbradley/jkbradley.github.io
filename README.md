@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## Joseph Bradley
 
-You can use the [editor on GitHub](https://github.com/jkbradley/jkbradley.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![Headshot](/assets/images/headshot.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have been a Solutions Architect and Software Engineer at Databricks and an academic researcher,
+all in various parts of the Machine Learning and advanced analytics space.
 
-### Markdown
+### Summary of work
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am an [Apache Spark](http://spark.apache.org/) committer and PMC member working at [Databricks](https://databricks.com/),
+the company founded by the original creators of Spark, [Delta Lake](https://delta.io/), and [MLflow](https://mlflow.org/).
+I spent my first 5.5 years at Databricks leading some of our ML efforts from the engineering side, and I am now an
+ML specialist in the Solutions Architect organization.
 
-```markdown
-Syntax highlighted code block
+Previously, I spent a year as a postdoc working with [Kannan Ramchandran](https://people.eecs.berkeley.edu/~kannanr/)
+and [Martin Wainwright](https://people.eecs.berkeley.edu/~wainwrig/) at [UC Berkeley](https://www.berkeley.edu/).
+I received my [Ph.D. in Machine Learning](https://www.ml.cmu.edu/) from Carnegie Mellon University,
+where I worked with [Carlos Guestrin](https://guestrin.su.domains/).
+I received my B.S.E. in Computer Science from [Princeton University](https://www.princeton.edu/),
+where I did research with [Robert E. Schapire](http://rob.schapire.net/).
 
-# Header 1
-## Header 2
-### Header 3
+### Talks, blogs, etc. while at Databricks
 
-- Bulleted
-- List
+### Open source work
 
-1. Numbered
-2. List
+, including those around Spark MLlib,
+[GraphFrames](https://graphframes.github.io/graphframes/docs/_site/index.html) 
 
-**Bold** and _Italic_ and `Code` text
+My open source work can be found most easily by looking at:
 
-[Link](url) and ![Image](src)
-```
+Github for activity, especially within open source Apache Spark or Spark Packages
+Databricks' Slideshare page or Spark Summit records for slides and talks
+Databricks blog posts which I occasionally write
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Research from years past
 
-### Jekyll Themes
+<table>
+<thead>
+<tr>
+<th>test</th>
+</tr>
+</thead>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jkbradley/jkbradley.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<tbody>
+<tr>
+<td>this</td>
+</tr>
+</tbody>
+</table>
