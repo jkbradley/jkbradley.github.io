@@ -1,6 +1,6 @@
 # Joseph Bradley
 
-<img align="left" src="/assets/images/headshot.jpg" width="100">
+<img align="left" src="/assets/images/headshot.jpg" width="100" style="padding-right: 10px">
 
 I have been a Solutions Architect and Software Engineer at Databricks and an academic researcher,
 all in various parts of the Machine Learning and advanced analytics space.
@@ -38,6 +38,16 @@ You can find it most easily by looking at:
 * [GraphFrames](https://github.com/graphframes/graphframes)
 
 ### Research from years past
+
+My research was generally in large-scale machine learning, especially in trade-offs between sample complexity,
+computational complexity, and potential for parallelization. My approach combined theory and application,
+focusing on methods which have strong theoretical guarantees and are competitive in practice.
+
+Selected topics of current and past research:
+
+* [Parallel Optimization for Sparse Regression](projects/ParallelOpt.md)
+
+### Academic publications
 
 | Year | Title                                                                               | Authors                                                                                                                                                                         | Venue                                                                                                    | Documents                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |------|-------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
