@@ -45,7 +45,7 @@ focusing on methods which have strong theoretical guarantees and are competitive
 
 Selected topics of current and past research:
 
-* [Parallel Optimization for Sparse Regression](projects/ParallelOpt.md)
+* [Parallel Optimization for Sparse Regression](research/ParallelOpt.md)
 
 ### Academic publications
 
