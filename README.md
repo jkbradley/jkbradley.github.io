@@ -47,7 +47,6 @@ Selected topics of current and past research:
 * [Parallel Optimization for Sparse Regression](research/ParallelOpt.md)
 * [Peer Grading in Massive Open Online Courses](research/PeerGrading.md)
 * [Probabilistic Graphical Models (focus on Conditional Random Fields)](research/PGMs.md)
-  * [Ph.D. Thesis](research/thesis/thesis.md)
 * [Boosting-by-Filtering](research/FilterBoost.md)
 
 ### Academic publications

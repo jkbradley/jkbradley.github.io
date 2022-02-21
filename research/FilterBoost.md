@@ -32,4 +32,4 @@ Joseph K. Bradley.
 <br><b>FilterBoost: Regression and Classification on Large Datasets.</b>
 <br><i>Data Analysis Project (Master's thesis equivalent) for the Machine Learning program at Carnegie Mellon University, 2009.</i>
 
-* [Paper (PDF)](http://www.ml.cmu.edu/research/dap-papers/dap_bradley.pdf"): This is an extended version of the original paper which adds multiclass extensions.
+* [Paper (PDF)](/assets/papers/2009_dap_filterboost.pdf): This is an extended version of the original paper which adds multiclass extensions using error-correcting output codes.
