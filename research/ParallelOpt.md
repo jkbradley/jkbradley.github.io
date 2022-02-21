@@ -1,4 +1,9 @@
-# Parallel Optimization for Sparse Regression
+---
+layout: default
+title: Parallel Optimization for Sparse Regression
+---
+
+<i>[Back to Home Page](../README.md)</i>
 
 Sparse regression (Lasso, sparse logistic regression, etc.) is a workhorse of modern machine learning.
 This work was on parallel optimization methods which can take advantage of properties of sparse regression to allow
@@ -34,13 +39,13 @@ Joseph K. Bradley, Aapo Kyrola, Danny Bickson, and Carlos Guestrin.
 <br><b>Parallel Coordinate Descent for L1-Regularized Loss Minimization.</b>
 <br><i>International Conference on Machine Learning (ICML), 2011.</i>
 
-* [arxiv](https://arxiv.org/abs/1105.5379)
 * [Main paper, with corrections](/assets/papers/2011_shotgun_corrected.pdf) <i>(This is an updated version which includes a correction to the original proof. Thanks to Martin Takac!)</i>
 * Supplements
   * [Supplement: Theory](/assets/papers/2011_shotgun_supplement_theory_corrected.pdf)
   * [Supplement: scalability analysis](/assets/papers/2011_shotgun_scalability_analysis.pdf)
   * [Supplement: Lasso benchmark](/assets/papers/2011_shotgun_supp_benchmark_lasso.pdf)
   * [Supplement: Logreg benchmark](/assets/papers/2011_shotgun_supp_benchmark_logreg.pdf)
+* [arxiv](https://arxiv.org/abs/1105.5379)
 
 ## Sparse Walsh-Hadamard Transforms
 
