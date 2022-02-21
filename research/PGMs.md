@@ -38,7 +38,7 @@ Joseph K. Bradley and Carlos Guestrin.
 <br><i>International Conference on Artificial Intelligence and Statistics (AISTATS), 2012.</i>
 
 * [Paper PDF](/assets/papers/2012_aistats_complike.pdf)
-* [Poster PPT](/assets/papers/2012_aistats_complike_poster.ppt)                                                                                                                                                                                                                                                                                                                        |
+* [Poster PPT](/assets/papers/2012_aistats_complike_poster.ppt)
 * This paper considers parameter learning for complex PGMs for which exact inference is intractable.  It proves finite-sample guarantees for composite likelihood, which avoids intractable inference during learning by effectively breaking the model into simpler components.
 
 Joseph K. Bradley and Carlos Guestrin.
